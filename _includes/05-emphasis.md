@@ -1,0 +1,4 @@
+# SKILLS
+1.**C PROGRAMMING**
+2._PYTHON_
+3.**JAVA**
